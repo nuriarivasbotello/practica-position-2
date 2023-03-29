@@ -1,0 +1,249 @@
+/* 
+colors: 
+  body background: #2a2b37
+  card background: #252a41
+  green: #1db489
+  red: #dc414c
+  facebook-color: #198ff5
+  twitter-color: #1ca0f2
+  instagram-color: #fdc468
+  youtube-color: #c4032a
+*/
+* {
+  box-sizing: border-box;
+}
+img {
+  max-width: 100%;
+  display: block;
+}
+body {
+  background-color: #1b1c25;
+  font-family: sans-serif;
+}
+.header {
+  width: 900px;
+  height: 150px;
+  padding-top: 15px;
+  padding-left: 80px;
+  border-radius: 0px 0px 20px 20px;
+  color: rgb(255, 255, 255);
+  background-color: #221f43;
+}
+.text1 {
+  font-size: x-large;
+}
+.text2 {
+  font-size: small;
+}
+.box1 {
+  display: inline-block;
+  position: relative;
+  top: -30px;
+  left: 80px;
+  width: 160px;
+  height: 170px;
+  border-radius: 5px;
+  border-top: #198ff5 solid 3px;
+  background-color: #252a41;
+}
+.logofc {
+  position: absolute;
+  top: 12px;
+  left: 30px;
+  width: 15px;
+  height: 15px;
+}
+.name1 {
+  position: absolute;
+  top: 4px;
+  left: 55px;
+  color: rgb(255, 255, 255);
+  font-size: x-small;
+}
+.number1 {
+  position: absolute;
+  top: 10px;
+  left: 40px;
+  color: rgb(255, 255, 255);
+  font-size: xx-large;
+}
+.followers1 {
+  position: absolute;
+  top: 75px;
+  left: 32px;
+  color: rgb(255, 255, 255);
+  font-size: medium;
+}
+.logoup1 {
+  position: absolute;
+  top: 136px;
+  left: 50px;
+  width: 15px;
+  height: 15px;
+}
+.up1 {
+  position: absolute;
+  top: 120px;
+  left: 65px;
+  color: #1db489;
+  font-size: x-small;
+}
+.box2 {
+  display: inline-block;
+  position: relative;
+  top: -30px;
+  left: 110px;
+  width: 160px;
+  height: 170px;
+  border-radius: 5px;
+  border-top: #19b7f5 solid 3px;
+  background-color: #252a41;
+}
+.logotw {
+  position: absolute;
+  top: 12px;
+  left: 30px;
+  width: 15px;
+  height: 15px;
+}
+.name2 {
+  position: absolute;
+  top: 4px;
+  left: 55px;
+  color: rgb(255, 255, 255);
+  font-size: x-small;
+}
+.number2 {
+  position: absolute;
+  top: 10px;
+  left: 40px;
+  color: rgb(255, 255, 255);
+  font-size: xx-large;
+}
+.followers2 {
+  position: absolute;
+  top: 75px;
+  left: 32px;
+  color: rgb(255, 255, 255);
+  font-size: medium;
+}
+.logoup2 {
+  position: absolute;
+  top: 136px;
+  left: 50px;
+  width: 15px;
+  height: 15px;
+}
+.up2 {
+  position: absolute;
+  top: 120px;
+  left: 65px;
+  color: #1db489;
+  font-size: x-small;
+}
+.box3 {
+  display: inline-block;
+  position: relative;
+  top: -30px;
+  left: 140px;
+  width: 160px;
+  height: 170px;
+  border-radius: 5px;
+  border-top: #f5f119 solid 3px;
+  background-color: #252a41;
+}
+.logoig {
+  position: absolute;
+  top: 12px;
+  left: 30px;
+  width: 15px;
+  height: 15px;
+}
+.name3 {
+  position: absolute;
+  top: 4px;
+  left: 55px;
+  color: rgb(255, 255, 255);
+  font-size: x-small;
+}
+.number3 {
+  position: absolute;
+  top: 10px;
+  left: 50px;
+  color: rgb(255, 255, 255);
+  font-size: xx-large;
+}
+.followers3 {
+  position: absolute;
+  top: 75px;
+  left: 32px;
+  color: rgb(255, 255, 255);
+  font-size: medium;
+}
+.logoup3 {
+  position: absolute;
+  top: 136px;
+  left: 50px;
+  width: 15px;
+  height: 15px;
+}
+.up3 {
+  position: absolute;
+  top: 120px;
+  left: 65px;
+  color: #1db489;
+  font-size: x-small;
+}
+.box4 {
+  display: inline-block;
+  position: relative;
+  top: -30px;
+  left: 170px;
+  width: 160px;
+  height: 170px;
+  border-radius: 5px;
+  border-top: #f51919 solid 3px;
+  background-color: #252a41;
+}
+.logoyt {
+  position: absolute;
+  top: 12px;
+  left: 30px;
+  width: 15px;
+  height: 15px;
+}
+.name4 {
+  position: absolute;
+  top: 4px;
+  left: 55px;
+  color: rgb(255, 255, 255);
+  font-size: x-small;
+}
+.number4 {
+  position: absolute;
+  top: 10px;
+  left: 50px;
+  color: rgb(255, 255, 255);
+  font-size: xx-large;
+}
+.followers4 {
+  position: absolute;
+  top: 75px;
+  left: 32px;
+  color: rgb(255, 255, 255);
+  font-size: medium;
+}
+.logoup4 {
+  position: absolute;
+  top: 136px;
+  left: 50px;
+  width: 15px;
+  height: 15px;
+}
+.down1 {
+  position: absolute;
+  top: 120px;
+  left: 65px;
+  color: #b41d1d;
+  font-size: x-small;
+}
